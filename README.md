@@ -1,1 +1,1 @@
-# Surface-Approximation-in-Higher-Dimensions
+# Surface Approximation in Higher Dimensions
